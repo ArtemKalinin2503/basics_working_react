@@ -1,4 +1,4 @@
-# TemplateReact
-npm install
+Основные приемы работы со state на чистом React
 
-npm start
+- npm install
+- npm start 
